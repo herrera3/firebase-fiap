@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "firebase-fiap",
+    "slug": "firebase-fiap",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
